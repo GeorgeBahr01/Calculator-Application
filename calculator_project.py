@@ -1,6 +1,5 @@
 #imports
 import tkinter as tk
-from turtle import left, right, width
 
 
 
